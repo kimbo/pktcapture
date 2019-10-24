@@ -1,0 +1,9 @@
+#pkt {
+    width: 100px;
+    height: 180px;
+    position: absolute;
+    left: 50%;
+    top: 35%;
+    user-select: none;
+    cursor: crosshair;
+}
